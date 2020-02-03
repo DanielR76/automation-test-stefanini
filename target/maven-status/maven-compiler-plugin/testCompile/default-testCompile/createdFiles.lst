@@ -1,0 +1,5 @@
+com\demoaut\newtours\step_definitions\FlightStep.class
+com\demoaut\newtours\runners\RunnerPersonalizado.class
+com\demoaut\newtours\runners\ExecuteRunner.class
+com\demoaut\newtours\step_definitions\CommonStep.class
+com\demoaut\newtours\step_definitions\RegisterStep.class
